@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **computer science**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
