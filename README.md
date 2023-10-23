@@ -1,8 +1,8 @@
 # Ahmed-FATIR
 <h1 align="left">Hi 👋! My name is Ahmed FATIR and I'm a computer science student at 
 <a href="https://1337.ma/en/" > 
- <img src="https://github.com/AhmedFatir/AhmedFatir/blob/main/13370.png" height="30" alt="1337" /> school
-
+ <img src="https://github.com/AhmedFatir/AhmedFatir/blob/main/13370.png" height="30" alt="1337" />
+school
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedfatir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
