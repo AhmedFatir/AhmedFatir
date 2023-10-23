@@ -1,7 +1,7 @@
 # Ahmed-FATIR
 <h1 align="left">Hi 👋! My name is Ahmed FATIR and I'm a computer science student at 
 <a href="https://1337.ma/en/" > 
- <img src="https://github.com/AhmedFatir/AhmedFatir/blob/main/1337.png" height="50" alt="1337" />
+ <img src="https://github.com/AhmedFatir/AhmedFatir/blob/main/1337.png" height="45" alt="1337" />
 
 
 <div align="center">
