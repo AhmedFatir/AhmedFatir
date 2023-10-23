@@ -1,5 +1,7 @@
 # Ahmed-FATIR
-<h1 align="left">Hi 👋! My name is Ahmed FATIR and I'm a computer science student at 1337 school <a href="https://1337.ma/en/" target="_blank"> <img src="" height="35" alt="1337"  /></h1><a
+<h1 align="left">Hi 👋! My name is Ahmed FATIR and I'm a computer science student at 1337 school</h1>
+<a href="https://1337.ma/en/" target="_blank"> <img 
+src="" height="35" alt="1337"  />
 
 
 <div align="center">
