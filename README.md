@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ahmedfatir/ahmedfatir/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ahmedfatir/ahmedfatir/con.svg" alt="Snake animation" />
 
 ###
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/afatir" alt="afatir's 42 stats" /></a>
