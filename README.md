@@ -51,4 +51,3 @@
 <img src="https://github.com/AhmedFatir/AhmedFatir/blob/main/con.svg" alt="Snake animation" />
 
 ###
-[![<afatir>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
