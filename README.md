@@ -1,8 +1,8 @@
 # Ahmed-FATIR
 <h1 align="left">Hi 👋! My name is Ahmed FATIR and I'm a computer science student at 1337 school "https://1337.ma/en/", from MORROCO</h1>
 <div align="left">
-  <a href="https://www.instagram.com/ahmed__fatir/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://1337.ma/en/" target="_blank">
+    <img src="" height="35" alt="1337"  />
 
 
 <div align="center">
