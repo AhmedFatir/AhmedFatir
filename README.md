@@ -1,4 +1,5 @@
 # Ahmed-FATIR
+[![afatir's 42 stats](https://badge.mediaplus.ma/binary/afatir)](https://github.com/oakoudad/badge42)
 <h1 align="left">Hi 👋! My name is Ahmed FATIR and I'm a computer science student at 
  </div>
 <a href="https://1337.ma/en/" > 
@@ -53,4 +54,3 @@
 <img src="https://github.com/AhmedFatir/AhmedFatir/blob/main/con.svg" alt="Snake animation" />
 
 ###
-[![afatir's 42 stats](https://badge.mediaplus.ma/binary/afatir)](https://github.com/oakoudad/badge42)
