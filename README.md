@@ -47,10 +47,12 @@
 </div>
 
 ###
-[![afatir's 42 stats](https://badge.mediaplus.ma/binary/afatir)](https://github.com/oakoudad/badge42)
 
 <br clear="both">
 
 <img src="https://github.com/AhmedFatir/AhmedFatir/blob/main/con.svg" alt="Snake animation" />
 
 ###
+https://badge.mediaplus.ma/binary/afatir
+[![afatir's 42 stats](https://badge.mediaplus.ma/binary/afatir)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/afatir" alt="afatir's 42 stats" /></a>
