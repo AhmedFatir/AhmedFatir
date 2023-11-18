@@ -4,7 +4,7 @@
 <a href="https://1337.ma/en/" > 
  <img src="https://github.com/AhmedFatir/AhmedFatir/blob/main/1337.png" height="28" alt="1337" />
 </div>
- 
+
 [![afatir's 42 stats](https://badge.mediaplus.ma/darkblue/afatir)](https://github.com/oakoudad/badge42)
 
 <div align="center"> 
