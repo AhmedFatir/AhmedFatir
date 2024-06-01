@@ -24,7 +24,7 @@
 
 ###
 
-## 🌐 Socials:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🌐 Socials</h2>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmed.fatir0/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed__fatir/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-fatir-9a40a62a3/) 
@@ -33,8 +33,7 @@
 
 ###
 
-## 📊 GitHub Stats:
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">📊 GitHub Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AhmedFatir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFatir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
@@ -84,30 +83,3 @@ Rewrite of printf() in C.
 C library with general-purpose functions.
 ### [┣◈᚛ Piscine 2022](https://github.com/AhmedFatir/piscine)
 The entire C piscine program, including the exams.
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/AhmedFatir">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedFatir&theme=solarized_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedFatir&theme=solarized_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedFatir&theme=solarized_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmedFatir&theme=solarized_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedFatir&theme=solarized_dark" height="180em" />
-</div>
-
-######################################
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmedFatir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFatir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFatir&theme=vue-dark&hide_border=false" />
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=AhmedFatir&icon=0&color=0" alt="Visit Count"/>
-    </a>
-</div>
-
-
-
