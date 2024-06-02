@@ -9,7 +9,7 @@
 
 ###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Languages and Tools</h2>
+## Languages and Tools
 <p align="left"> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -25,7 +25,7 @@
 
 ###
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🌐 Socials</h2>
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmed.fatir0/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed__fatir/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-fatir-9a40a62a3/) 
@@ -34,7 +34,7 @@
 
 ###
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AhmedFatir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFatir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
