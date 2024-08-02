@@ -53,6 +53,8 @@
 ###
 
 # [PROJECTS](https://github.com/AhmedFatir?tab=repositories)
+### [┣◈᚛ ELK-Stack](https://github.com/AhmedFatir/ELK-Stack)
+Elasticsearch, Logstash, and Kibana using Docker.
 ### [┣◈᚛ inception](https://github.com/AhmedFatir/inception)
 Docker for system administration, virtualizing multiple Docker images within a personal virtual machine.
 ### [┣◈᚛ ft_irc](https://github.com/AhmedFatir/ft_irc)
