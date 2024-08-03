@@ -53,8 +53,10 @@
 ###
 
 # [PROJECTS](https://github.com/AhmedFatir?tab=repositories)
+### [┣◈᚛ Prom-Grafana](https://github.com/AhmedFatir/Prom-Garfana)
+Prometheus and Grafana system Monitoring using Docker.
 ### [┣◈᚛ ELK-Stack](https://github.com/AhmedFatir/ELK-Stack)
-Elasticsearch, Logstash, and Kibana using Docker.
+Elasticsearch, Logstash, and Kibana Log Management using Docker.
 ### [┣◈᚛ inception](https://github.com/AhmedFatir/inception)
 Docker for system administration, virtualizing multiple Docker images within a personal virtual machine.
 ### [┣◈᚛ ft_irc](https://github.com/AhmedFatir/ft_irc)
