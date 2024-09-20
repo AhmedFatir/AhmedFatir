@@ -10,6 +10,7 @@ plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 
+# monitor file changes and compile and run
 function crun {
     if [ -z "$1" ]; then
         echo "Usage: crun <file_name>"
@@ -47,6 +48,7 @@ function makerun {
         fi
     done
 }
+
 function makerunb {
     if [ -z "$1" ]; then
         echo "Usage: makerun <output_file>"
@@ -67,8 +69,16 @@ function makerunb {
     done
 }
 
+# auto push commands
 alias PUSH='
 #!/bin/bash
+find . -name ".DS_Store" -type f -delete
+rm -rf .vscode
+# Check if .gitignore exists
+if [ ! -f .gitignore ]; then
+    echo -e "\033[1;31mWarning: .gitignore file is missing in the working directory!\033[0m"
+fi
+
 echo -n "\e[1;32m\nenter the commit message: \e[0;37m"
 read commit_message
 
@@ -90,19 +100,33 @@ git commit -m "$commit_message"
 echo "\n\033[4;31mGIT PUSH\033[0;37m\n"
 git push'
 
+# clean commands
 bash ~/ccl.sh
-alias finder='bash <(curl -s https://raw.githubusercontent.com/ilyassesalama/1337-Finder/main/1337-Finder.sh)'
-alias zshup='source ~/.zshrc'
-alias c17='c++ -std=c++17'
-alias c98='c++ -std=c++98'
-alias rmv='rm -rf .vscode .DS_Store'
+alias rmv='find . -name ".DS_Store" -type f -delete && rm -rf .vscode'
 alias rmf='rm -rf'
 alias cl="bash ~/ccl.sh && find ~/.Trash/ -mindepth 1 -delete" 
 alias cclean="bash ~/ccl.sh && find ~/.Trash/ -mindepth 1 -delete"
+
+# update commands
+alias zshup='source ~/.zshrc'
+alias sas='osascript ~/dark_mode_key_repeat.scpt &>/dev/null'
+
+# compile commands
+alias c17='c++ -std=c++17'
+alias c98='c++ -std=c++98'
 alias cdd="cd ~/Desktop"
-alias bas='PS1="╭─\[\033[1;33m\]\u_bash$\[\033[0;34m\] \W\n\[\033[0;37m\]╰─$ " bash'
+alias py='python3.9'
+
+# Docker commands
+alias cpd='
+rsync -a ~/Library/Containers/com.docker.docker ~/goinfre/DockerData
+mv ~/Library/Containers/com.docker.docker ~/Library/Containers/com.docker.docker.backup
+ln -s ~/goinfre/DockerData/com.docker.docker ~/Library/Containers/com.docker.docker'
+alias dquit='killall Docker'
+alias dopen='open -a Docker'
+mkdir -p /Users/afatir/goinfre/DockerData/com.docker.docker/Data
 
 # Load Homebrew config script
 source $HOME/.brewconfig.zsh
 
-#install brew, readlin and cub3d
+source /Users/afatir/.docker/init-zsh.sh || true # Added by Docker Desktop
