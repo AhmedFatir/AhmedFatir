@@ -69,7 +69,7 @@ function makerunb {
     done
 }
 
-# auto push commands
+# auto push and merge commands
 alias PUSH='
 #!/bin/bash
 find . -name ".DS_Store" -type f -delete
@@ -100,16 +100,35 @@ git commit -m "$commit_message"
 echo "\n\033[4;31mGIT PUSH\033[0;37m\n"
 git push'
 
+alias merge='
+#!/bin/bash
+echo -n "\e[1;32m\nEnter the brach name: \e[0;37m"
+read branch_name
+current_branch=$(git rev-parse --abbrev-ref HEAD)
+
+echo "\nMerge branch $branch_name into $current_branch."
+echo "Automatically resolve conflicts in favor of $branch_name."
+
+echo -n "\e[1;32m\nWould you like to continue?: \e[0;37m"
+read continue
+if [ $continue = "n" ]
+then
+    echo "Merge cancelled."
+    return
+fi
+git merge -X theirs "$branch_name"
+'
+
 # clean commands
-bash ~/ccl.sh
+bash ~/AhmedFatir/ccl.sh
 alias rmv='find . -name ".DS_Store" -type f -delete && rm -rf .vscode'
 alias rmf='rm -rf'
-alias cl="bash ~/ccl.sh && find ~/.Trash/ -mindepth 1 -delete" 
-alias cclean="bash ~/ccl.sh && find ~/.Trash/ -mindepth 1 -delete"
+alias cl="bash ~/AhmedFatir/ccl.sh && find ~/.Trash/ -mindepth 1 -delete" 
+alias cclean="bash ~/AhmedFatir/ccl.sh && find ~/.Trash/ -mindepth 1 -delete"
 
 # update commands
 alias zshup='source ~/.zshrc'
-alias sas='osascript ~/dark_mode_key_repeat.scpt &>/dev/null'
+alias sas='osascript ~/AhmedFatir/dark_mode_key_repeat.scpt &>/dev/null'
 
 # compile commands
 alias c17='c++ -std=c++17'
