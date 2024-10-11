@@ -1,10 +1,7 @@
 # Ahmed-FATIR
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="left">Hi 👋! My name is Ahmed FATIR and I'm a computer science student at 
- </div>
-<a href="https://1337.ma/en/" > 
- <img src="https://github.com/AhmedFatir/AhmedFatir/blob/master/1337.png" height="28" alt="1337" />
-</div>
+<h1 align="left">
+  Hi 👋! My name is Ahmed FATIR and I'm a computer science student at <a href="https://1337.ma/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/AhmedFatir/AhmedFatir/blob/master/1337.png" alt="1337" height="28"/> </a>
 
 [![](https://badge.mediaplus.ma/darkblue/afatir)](https://github.com/oakoudad/badge42)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
