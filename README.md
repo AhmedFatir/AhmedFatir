@@ -67,6 +67,7 @@
 <!-- ### -->
 
 # [PROJECTS](https://github.com/AhmedFatir?tab=repositories)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### [┣◈᚛ User-Management-System](https://github.com/AhmedFatir/user-management-system)
 User Management System with Django and Django REST Framework
 ### [┣◈᚛ ELK-PromGraf-Incep](https://github.com/AhmedFatir/ELK-PromGraf-Incep)
