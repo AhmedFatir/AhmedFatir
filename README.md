@@ -47,13 +47,10 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@afatir.ahmedfatir) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AhmedFatir_) 
 
-###
+## 📊 GitHub Stats
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedFatir&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
 
-###
-
-## 📊 GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AhmedFatir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFatir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
