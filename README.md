@@ -49,6 +49,10 @@
 
 ###
 
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedFatir&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
+
+###
+
 ## 📊 GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AhmedFatir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" />
