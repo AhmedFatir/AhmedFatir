@@ -73,7 +73,7 @@
 ### [┣◈᚛ User-Management-System](https://github.com/AhmedFatir/user-management-system)
 User Management System with Django and Django REST Framework
 ### [┣◈᚛ ELK-PromGraf-Incep](https://github.com/AhmedFatir/ELK-PromGraf-Incep)
-Web app with Log Management and System Monitoring
+Web app with Log Management(ELK-Stack) and System Monitoring(Prometheus and Grafana)
 ### [┣◈᚛ inception](https://github.com/AhmedFatir/inception)
 Docker for system administration, virtualizing multiple Docker images within a personal virtual machine.
 ### [┣◈᚛ ft_irc](https://github.com/AhmedFatir/ft_irc)
