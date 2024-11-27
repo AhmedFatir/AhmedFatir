@@ -5,76 +5,27 @@ export LDFLAGS="-L/Users/afatir/.brew/opt/readline/lib"
 export CPPFLAGS="-I/Users/afatir/.brew/opt/readline/include"
 
 ZSH_THEME="bira"
+# ZSH_THEME="robbyrussell"
 
-plugins=(git)
+plugins=(
+    git
+    kubectl
+    docker
+    docker-compose
+)
 
 source $ZSH/oh-my-zsh.sh
 
-# monitor file changes and compile and run
-function crun {
-    if [ -z "$1" ]; then
-        echo "Usage: crun <file_name>"
-        return
-    fi
-    file="$1"
-    while true; do
-    echo -n "\e[1;32m\nEnter ('r' to compile and run): \e[0;37m"
-    read command
-    if [ "$command" = "r" ]; then
-        ls $file | tr ' ' '\n' | entr sh -c "clear && c++ -std=c++17 -o a.out $file && ./a.out"
-    else
-        echo "Invalid command."
-        return
-    fi
-    done
-}
-
-function makerun {
-    if [ -z "$1" ]; then
-        echo "Usage: makerun <output_file>"
-        return
-    fi
-
-    output_file="$1"
-
-    while true; do
-        echo -n "\e[1;32m\nEnter ('r' to compile and run): \e[0;37m"
-        read command
-        if [ "$command" = "r" ]; then
-            find . -type f | entr sh -c "clear && make && clear && ./$output_file"
-        else
-            echo "Invalid command."
-            return
-        fi
-    done
-}
-
-function makerunb {
-    if [ -z "$1" ]; then
-        echo "Usage: makerun <output_file>"
-        return
-    fi
-
-    output_file="$1"
-
-    while true; do
-        echo -n "\e[1;32m\nEnter ('r' to compile and run): \e[0;37m"
-        read command
-        if [ "$command" = "r" ]; then
-            find . -type f | entr sh -c "clear && make bonus && clear && ./$output_file"
-        else
-            echo "Invalid command."
-            return
-        fi
-    done
-}
-
-# auto push and merge commands
+# auto push
 alias PUSH='
 #!/bin/bash
 find . -name ".DS_Store" -type f -delete
-rm -rf .vscode
-# Check if .gitignore exists
+if [ "$PWD" = "$HOME" ]; then
+    echo -e "\033[1;31mError: You are in the home directory!\033[0m"
+else
+    rm -rf .vscode
+fi
+
 if [ ! -f .gitignore ]; then
     echo -e "\033[1;31mWarning: .gitignore file is missing in the working directory!\033[0m"
 fi
@@ -100,6 +51,7 @@ git commit -m "$commit_message"
 echo "\n\033[4;31mGIT PUSH\033[0;37m\n"
 git push'
 
+# auto merge
 alias merge='
 #!/bin/bash
 echo -n "\e[1;32m\nEnter the brach name: \e[0;37m"
@@ -121,10 +73,11 @@ git merge -X theirs "$branch_name"
 
 # clean commands
 bash ~/AhmedFatir/ccl.sh
-alias rmv='find . -name ".DS_Store" -type f -delete && rm -rf .vscode'
 alias rmf='rm -rf'
 alias cl="bash ~/AhmedFatir/ccl.sh && find ~/.Trash/ -mindepth 1 -delete" 
 alias cclean="bash ~/AhmedFatir/ccl.sh && find ~/.Trash/ -mindepth 1 -delete"
+alias kilan='killall "Android File Transfer" && killall "Android File Transfer Agent"'
+alias dua='du -sh * | sort -n'
 
 # update commands
 alias zshup='source ~/.zshrc'
@@ -139,13 +92,35 @@ alias py='python3.9'
 # Docker commands
 alias cpd='
 rsync -a ~/Library/Containers/com.docker.docker ~/goinfre/DockerData
-mv ~/Library/Containers/com.docker.docker ~/Library/Containers/com.docker.docker.backup
 ln -s ~/goinfre/DockerData/com.docker.docker ~/Library/Containers/com.docker.docker'
+mkdir -p /Users/afatir/goinfre/DockerData/com.docker.docker/Data
 alias dquit='killall Docker'
 alias dopen='open -a Docker'
-mkdir -p /Users/afatir/goinfre/DockerData/com.docker.docker/Data
+alias ip="echo $(ifconfig | grep 'inet 10' | awk '{print $2}')"
 
 # Load Homebrew config script
 source $HOME/.brewconfig.zsh
 
 source /Users/afatir/.docker/init-zsh.sh || true # Added by Docker Desktop
+
+
+
+
+# export ZSH="$HOME/.oh-my-zsh"
+# export EDITOR="/Applications/Visual\ Studio\ Code.app/Contents/MacOS/Visual\ Studio\ Code" 
+# export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+# ZSH_THEME="robbyrussell"
+# plugins=(git)
+# source $ZSH/oh-my-zsh.sh
+# alias rmf='rm -rf'
+# alias py='python3.9'
+# alias zshup='source ~/.zshrc'
+alias pyenv='python3.9 -m venv env && source env/bin/activate'
+alias pym='python3.9 manage.py'
+alias pymm='python3.9 manage.py makemigrations && python3.9 manage.py migrate'
+alias pymr='python3.9 manage.py runserver'
+alias pymt='python3.9 manage.py test --verbosity 2'
+alias pyma='python3.9 manage.py createsuperuser --username admin --email admin@email.com'
+alias pipi='pip install -r requirements.txt'
+alias pipf='pip freeze > requirements.txt'
+
