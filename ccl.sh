@@ -6,7 +6,7 @@ then
 	Storage="0B"
 fi
 
-S1=$Storage
+echo -n "$Storage | "
 
 should_log=0
 if [[ "$1" == "-p" || "$1" == "--print" ]]; then
@@ -78,4 +78,4 @@ then
 	Storage="0B"
 fi
 
-echo -e "$S1 | $Storage"
+echo -e "$Storage"

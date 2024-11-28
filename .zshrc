@@ -29,6 +29,14 @@ fi
 if [ ! -f .gitignore ]; then
     echo -e "\033[1;31mWarning: .gitignore file is missing in the working directory!\033[0m"
 fi
+echo "
+feat: (new feature for the user, not a new feature for build script)
+fix: (bug fix for the user, not a fix to a build script)
+docs: (changes to the documentation)
+style: (formatting, missing semi colons, etc; no production code change)
+refactor: (refactoring production code, eg. renaming a variable)
+test: (adding missing tests, refactoring tests; no production code change)
+chore: (updating grunt tasks etc; no production code change)"
 
 echo -n "\e[1;32m\nenter the commit message: \e[0;37m"
 read commit_message
@@ -92,14 +100,12 @@ alias py='python3.9'
 # Docker commands
 alias cpd='
 rsync -a ~/Library/Containers/com.docker.docker ~/goinfre/DockerData
+mv ~/Library/Containers/com.docker.docker ~/Library/Containers/com.docker.docker.backup
 ln -s ~/goinfre/DockerData/com.docker.docker ~/Library/Containers/com.docker.docker'
 mkdir -p /Users/afatir/goinfre/DockerData/com.docker.docker/Data
 alias dquit='killall Docker'
 alias dopen='open -a Docker'
 alias ip="echo $(ifconfig | grep 'inet 10' | awk '{print $2}')"
-
-# Load Homebrew config script
-source $HOME/.brewconfig.zsh
 
 source /Users/afatir/.docker/init-zsh.sh || true # Added by Docker Desktop
 
