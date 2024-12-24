@@ -70,6 +70,8 @@
 # [PROJECTS](https://github.com/AhmedFatir?tab=repositories)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### [┣◈᚛ ft_transcendence](https://github.com/AhmedFatir/ft_transcendence)
+Web-based platform allows users to play Ping Pong games and interact in real-time through chat.
 ### [┣◈᚛ User-Management-System](https://github.com/AhmedFatir/user-management-system)
 User Management System with Django and Django REST Framework
 ### [┣◈᚛ Prometheus-Grafana](https://github.com/AhmedFatir/Prometheus-Grafana)
