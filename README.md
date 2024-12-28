@@ -1,15 +1,11 @@
 # Ahmed-FATIR
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
 <img src="https://github.com/AhmedFatir/AhmedFatir/blob/master/images/sin.gif">
 
 <h1 align="left">
   Hi 👋! My name is Ahmed FATIR and I'm a computer science student at
   <a href="https://1337.ma/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/AhmedFatir/AhmedFatir/blob/master/images/1337.png" alt="1337" width="100" height="28"/> </a>
 
-<!-- [![](https://badge.mediaplus.ma/darkblue/afatir)](https://github.com/oakoudad/badge42)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
-###
 ## Languages and Tools
 <p align="left"> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -44,10 +40,10 @@
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmed.fatir0/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed__fatir/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-fatir-9a40a62a3/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@afatir.ahmedfatir) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AhmedFatir_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed__fatir/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-fatir/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@afatir.ahmedfatir)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AhmedFatir_)
 
 ## 📊 GitHub Stats
 
@@ -57,24 +53,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AhmedFatir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFatir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFatir&theme=vue-dark&hide_border=false" />
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=AhmedFatir&icon=0&color=0" alt="Visit Count"/>
-    </a>
 </div>
 
-<!-- ### -->
-
-  <!-- <br clear="both">
-<img src="https://github.com/AhmedFatir/AhmedFatir/blob/master/con.svg" alt="Snake animation" /> -->
-
-<!-- ### -->
-
 # [PROJECTS](https://github.com/AhmedFatir?tab=repositories)
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
 <img src="https://github.com/AhmedFatir/AhmedFatir/blob/master/images/sin.gif">
 
 ### [┣◈᚛ ft_transcendence](https://github.com/AhmedFatir/ft_transcendence)
-Web-based platform allows users to play Ping Pong games and interact in real-time through chat.
+Web-based platform allows users to play Ping Pong games and interact in real-time chat.
 ### [┣◈᚛ User-Management-System](https://github.com/AhmedFatir/user-management-system)
 User Management System with Django and Django REST Framework
 ### [┣◈᚛ Prometheus-Grafana](https://github.com/AhmedFatir/Prometheus-Grafana)
