@@ -1,8 +1,10 @@
 # Ahmed-FATIR
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://github.com/AhmedFatir/AhmedFatir/blob/master/images/sin.gif">
+
 <h1 align="left">
   Hi 👋! My name is Ahmed FATIR and I'm a computer science student at
-  <a href="https://1337.ma/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/AhmedFatir/AhmedFatir/blob/master/1337.png" alt="1337" width="100" height="28"/> </a>
+  <a href="https://1337.ma/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/AhmedFatir/AhmedFatir/blob/master/images/1337.png" alt="1337" width="100" height="28"/> </a>
 
 <!-- [![](https://badge.mediaplus.ma/darkblue/afatir)](https://github.com/oakoudad/badge42)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
@@ -68,7 +70,8 @@
 <!-- ### -->
 
 # [PROJECTS](https://github.com/AhmedFatir?tab=repositories)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://github.com/AhmedFatir/AhmedFatir/blob/master/images/sin.gif">
 
 ### [┣◈᚛ ft_transcendence](https://github.com/AhmedFatir/ft_transcendence)
 Web-based platform allows users to play Ping Pong games and interact in real-time through chat.
