@@ -130,3 +130,14 @@ alias pyma='python3.9 manage.py createsuperuser --username admin --email admin@e
 alias pipi='pip install -r requirements.txt'
 alias pipf='pip freeze > requirements.txt'
 
+
+# for Linux
+# alias zshup='source ~/.zshrc && xmodmap ~/.Xmodmap && xrandr --output "eDP" --mode "3200x1800"'
+# Xmodmap //
+#remove Control = Control_L
+#remove Mod4 = Super_L
+#keysym Super_L = Control_L
+#keysym Control_L = Super_L
+#add Control = Control_L
+#add Mod4 = Super_L
+
