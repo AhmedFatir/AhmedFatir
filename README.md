@@ -114,15 +114,26 @@ The entire C piscine program, including the exams.
 - **Prometheus Monitoring Targets**
   ![Monitoring Targets](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Targets.png)
 
+---
+
 - **Grafana Dashboards**
+  - **Prometheus**
   ![Prometheus Dashboard](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Prometheus.png)
+  - **Node Exporter**
   ![Ngix Dashboard](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Nginx.png)
+  - **PostgreSQL**
   ![PostgreSQL Dashboard](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Postgresql.png)
+  - **Redis**
   ![Redis Dashboard](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Redis.png)
+  - **PostgreSQL**
   ![Node Dashboard](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Node.png)
+
+---
 
 - **Elasicsearch indices**
   ![Elasticsearch Indices](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/ElasticSearch.png)
+
+---
 
 - **Kibana Dashboard**
   ![Nginx Dashboard](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Kibana.png)
