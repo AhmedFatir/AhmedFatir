@@ -140,4 +140,4 @@ alias pipf='pip freeze > requirements.txt'
 #keysym Control_L = Super_L
 #add Control = Control_L
 #add Mod4 = Super_L
-
+# printf "%02d:%02d\n" $(($(($(date +%s) - $(date -d "$(who -u | grep "$USER" | awk 'NR==1 {print $3, $4}')" +%s))) / 3600)) $(($(($(($(date +%s) - $(date -d "$(who -u | grep "$USER" | awk 'NR==1 {print $3, $4}')" +%s))) % 3600)) / 60))
