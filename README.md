@@ -105,3 +105,24 @@ Rewrite of printf() in C.
 C library with general-purpose functions.
 ### [┣◈᚛ Piscine 2022](https://github.com/AhmedFatir/piscine)
 The entire C piscine program, including the exams.
+
+
+---
+
+
+
+- **Prometheus Monitoring Targets**
+  ![Monitoring Targets](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Targets.png)
+
+- **Grafana Dashboards**
+  ![Prometheus Dashboard](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Prometheus.png)
+  ![Ngix Dashboard](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Nginx.png)
+  ![PostgreSQL Dashboard](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Postgresql.png)
+  ![Redis Dashboard](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Redis.png)
+  ![Node Dashboard](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Node.png)
+
+- **Elasicsearch indices**
+  ![Elasticsearch Indices](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/ElasticSearch.png)
+
+- **Kibana Dashboard**
+  ![Nginx Dashboard](https://github.com/AhmedFatir/AhmedFatir/blob/master/images/Kibana.png)
