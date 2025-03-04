@@ -65,6 +65,8 @@
 
 <img src="https://github.com/AhmedFatir/AhmedFatir/blob/master/images/sin.gif">
 
+### [┣◈᚛ OCI-KubeFlow](https://github.com/AhmedFatir/OCI-KubeFlow)
+Fully automated CI/CD pipeline for deploying a WordPress application on OCI using Kubernetes, Jenkins, Terraform, and GitHub.
 ### [┣◈᚛ ft_transcendence](https://github.com/AhmedFatir/ft_transcendence)
 Web-based platform allows users to play Ping Pong games and interact in real-time chat.
 ### [┣◈᚛ User-Management-System](https://github.com/AhmedFatir/user-management-system)
@@ -78,7 +80,7 @@ Containerized web App MariaDB, Nginx, and WordPress, orchestrated seamlessly usi
 ### [┣◈᚛ ft_irc](https://github.com/AhmedFatir/ft_irc)
 IRC(Internet Relay Chat) server
 ### [┣◈᚛ CPP-Modules](https://github.com/AhmedFatir/CPP-Modules)
-The exercises of (Module 00 to Module 09) from C++ modules.
+The exercises of (Module 00 to Module 09) from the C++ modules.
 ### [┣◈᚛ Cub3D](https://github.com/AhmedFatir/cub3d)
 Exploring ray-casting. The goal is to make a dynamic view inside a maze.
 ### [┣◈᚛ net_practice](https://github.com/AhmedFatir/net_practice)
