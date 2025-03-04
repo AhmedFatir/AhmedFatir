@@ -65,7 +65,7 @@
 
 <img src="https://github.com/AhmedFatir/AhmedFatir/blob/master/images/sin.gif">
 
-### [┣◈᚛ OCI-KubeFlow](https://github.com/AhmedFatir/OCI-KubeFlow)
+### [┣◈᚛ OCI-KubeFlow](https://github.com/AhmedFatir/OCI-KubeNexus)
 Fully automated CI/CD pipeline for deploying a WordPress application on OCI using Kubernetes, Jenkins, Terraform, and GitHub.
 ### [┣◈᚛ ft_transcendence](https://github.com/AhmedFatir/ft_transcendence)
 Web-based platform allows users to play Ping Pong games and interact in real-time chat.
