@@ -8,7 +8,6 @@
 
 ## Languages and Tools
 <p align="left"> 
- <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  <a href="https://www.debian.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a> 
 
@@ -18,6 +17,7 @@
  <a href="https://www.python.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://www.djangoproject.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="django" width="40" height="40"/> </a>
  <a href="https://www.django-rest-framework.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django-rest-framework" width="40" height="40"/> </a>
+  <a href="https://yaml.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/> </a>
 
  <a href="https://mariadb.org/"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
  <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -25,9 +25,8 @@
 
  <a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
  <a href="https://kubernetes.io/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" alt="K8s" width="40" height="40"/> </a>
- <a href="https://yaml.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/> </a>
  <a href="https://www.terraform.io/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="40" height="40"/> </a>
- <a href="https://www.jenkins.io/"> <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/> </a>
+<!-- <a href="https://www.jenkins.io/"> <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/> </a> -->
 
  <a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
  <a href="https://wordpress.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> </a> 
@@ -38,7 +37,6 @@
  <a href="https://www.elastic.co/logstash"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/logstash/logstash-original.svg" alt="logstash" width="40" height="40"/> </a> 
  <a href="https://www.elastic.co/kibana"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> </a> 
  <a href="https://www.elastic.co/beats"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/beats/beats-original.svg" alt="beats" width="40" height="40"/> </a> 
-
  <a href="https://grafana.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> </a> 
  <a href="https://prometheus.io/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a> 
 </p>
